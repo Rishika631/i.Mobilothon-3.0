@@ -40,7 +40,7 @@ Machine Learning: Employ machine learning models to improve the relevance of rec
 
 We will be using the following  technology stack for the TravelWise project TechStack- Flutter(Front-End Development), Firebase Realtime Database(Database), Node.js (Back-End Development),  Google Maps API(Geolocation Services), Hugging Face Transformers, OpenAI GPT model, NLTK(NLP), Whisper API(Voice Integration), Figma(UI)
 
-Voice Link: https://creator.voiceflow.com/prototype/6547a9c12f832efd55df37ec
+Voice Link: https://creator.voiceflow.com/prototype/65482452758113f73337e222
 
 Chatbot Link: https://creator.voiceflow.com/prototype/6547a9c12f832efd55df37ec
 
