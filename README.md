@@ -1,4 +1,4 @@
-## TravelWise: Your Smart Journey Companion
+# TravelWise: Your Smart Journey Companion
 
 TravelWise employs cutting-edge AI technology to provide personalized travel recommendations. The AI analyzes real-time data, user preferences, and geolocation services to offer tailored insights about local culture, safety alerts, and real-time event updates. Its voice-activated AI feature ensures interactive, hands-free access to travel information, transforming the way we journey.
 # Features
